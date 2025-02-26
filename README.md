@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# Pine Straw Calculator
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description
+Pine Straw Calculator is a simple Vue 3 application built with Vite, Tailwind CSS, and Headless UI. It allows users to enter the number of rolls (materials) and calculate the estimated price by fetching data from an external API.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## [🌐 Demo 👀](https://landofcash.github.io/pine-straw-calculator/)
+Check out the live demo: [👀 Pine Straw Calculator 👀](https://landofcash.github.io/pine-straw-calculator/)
+
+## Features
+- Uses Vue 3 with Vite for fast performance
+- Styled with Tailwind CSS
+- Utilizes Headless UI for accessibility and usability
+- Input validation to ensure valid roll count
+- Fetches price dynamically from an API
+
+## Installation
+To set up and run the project locally and add features [contact me on upwork](https://www.upwork.com/freelancers/mikhaila).
+
